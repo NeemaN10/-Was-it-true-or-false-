@@ -1,5 +1,5 @@
-Eyetracking Technology Using AI
-
+**Eyetracking Technology Using AI
+**
 ![image](https://github.com/user-attachments/assets/b104dade-914a-4fe3-9140-487e2f197375)
 
 Due to the increasing interest in the interactions between humans and computers, the field of artificial intelligence (AI) is becoming more prevalent. This is evidenced by the increasing number of studies being conducted on the development of novel AI systems that can perform various tasks at human-level. One of these is image classification, which can be performed automatically and effectively with minimal human intervention. We tend to forget about the things that we have learned and experienced because we have become so used to having all this information about ourselves. A memory is a kind of information that can be stored in an unconscious or conscious manner. This process can be described as the formation of a set of systems that can act in a cooperative manner.
